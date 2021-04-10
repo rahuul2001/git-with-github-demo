@@ -7,5 +7,3 @@ Disallow:
 # This line has been added to demonstrate the usage of SSH protocol
 
 # some line
-# helllo world
-hellllllloo
